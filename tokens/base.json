@@ -1,0 +1,37 @@
+{
+  "color": {
+    "primary": {
+      "value": "#3b82f6",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#64748b",
+      "type": "color"
+    }
+  },
+  "spacing": {
+    "sm": {
+      "value": "0.5rem",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "1rem",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "2rem",
+      "type": "spacing"
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "sans": {
+        "value": [
+          "Inter",
+          "sans-serif"
+        ],
+        "type": "fontFamily"
+      }
+    }
+  }
+}
